@@ -56,7 +56,7 @@ namespace Tutorial_MonoGame_Lesson_One_I_don_t_Care_You_know_you_handing_this_is
             _spriteBatch.Draw(background, new Vector2(0,0), Color.White);
             _spriteBatch.Draw(yourMother, new Vector2(40,30), Color.White);
             _spriteBatch.Draw(nameYourVariable, new Vector2(12, 10), Color.White);
-            _spriteBatch.Draw(Jedi, new Vector2(200, 10), Color.White);
+            _spriteBatch.Draw(Jedi, new Vector2(200, 10), Color.White); 
 
 
             _spriteBatch.End();
